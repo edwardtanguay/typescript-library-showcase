@@ -1,5 +1,6 @@
 // @filename: tests/index.test.ts
-import { Deferred, stringifyError } from "chat-stdlib";
+// import { Deferred, stringifyError } from "chat-stdlib";
+import { Deferred, stringifyError } from "../src/index";
 
 describe("Utils - Deferred", () => {
   let deferred: Deferred<string>;
