@@ -18,5 +18,11 @@
         "titleBar.inactiveBackground": "#000080",
         "titleBar.inactiveForeground": "#cccccc"
       },
-      "peacock.color": "#888"
+      "peacock.color": "#888",
+      "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "typescriptreact"
+      ],
     }
